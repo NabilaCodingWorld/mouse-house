@@ -1,0 +1,9 @@
+/* Add this CSS in your stylesheet */
+.hover-animation {
+    transition: transform 0.3s ease; /* Adjust the duration and easing as needed */
+  }
+  
+  .hover-animation:hover {
+    transform: scale(1.05); /* Adjust the scale factor as desired */
+  }
+  
